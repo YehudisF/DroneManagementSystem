@@ -19,6 +19,7 @@ namespace IDAL
                 internal static Customer[] CustomerArr = new Customer[100];
                 internal static Parcel[] ParcelArr = new Parcel[1000];
                 internal static DroneCharge[] ChargeArr = new DroneCharge[10]
+                internal static List<DroneCharge> ChargeList = new List<DroneCharge>
 
                 internal class Config
                 {
